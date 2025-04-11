@@ -60,4 +60,6 @@
   </a>
 </p>
 
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samyak-jain-12&show_icons=true&theme=dark" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samyak-jain-12&show_icons=true&theme=dark" />
+</p>
