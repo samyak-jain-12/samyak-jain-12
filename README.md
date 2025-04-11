@@ -1,5 +1,10 @@
 <h1 align="center">Hey 👋, I'm Samyak Jain</h1>
 
+- 📫 How to reach me **jainsamyak1203@gmail.com**
+
+## 💻 Languages and Tools :
+### AI/ML :
+
 <!--
 **samyak-jain-12/samyak-jain-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
