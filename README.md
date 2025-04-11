@@ -59,3 +59,5 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=html"/>
   </a>
 </p>
+
+![Samyak's GitHub stats](https://github-readme-stats.vercel.app/api?username=samyak-jain-12&show_icons=true)
