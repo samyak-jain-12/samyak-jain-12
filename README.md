@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Samyak Jain</h1>
 
 <!--
 **samyak-jain-12/samyak-jain-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
