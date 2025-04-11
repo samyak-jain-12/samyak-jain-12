@@ -5,57 +5,57 @@
 ## 💻 Languages and Tools :
 
 ### AI/ML :
-<p align="left>
-  <a href="https://www.python.org" target="blank">
+<p align="left">
+  <a href="https://www.python.org" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=python"/>
   </a>
-  <a href="https://numpy.org" target="blank">
+  <a href="https://numpy.org" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy"/>
   </a>
-  <a href="https://pandas.pydata.org" target="blank">
+  <a href="https://pandas.pydata.org" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas"/>
   </a>
-  <a href="https://matplotlib.org" target="blank">
+  <a href="https://matplotlib.org" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib"/>
   </a>
-  <a href="https://scikit-learn.org/stable/" target="blank">
+  <a href="https://scikit-learn.org/stable/" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn"/>
   </a>
-  <a href="https://pytorch.org" target="blank">
+  <a href="https://pytorch.org" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch"/>
   </a>
-  <a href="https://opencv.org" target="blank">
+  <a href="https://opencv.org" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv"/>
   </a>
 </p>
 
 ### Frontend :
-<p align="left>
-  <a href="https://react.dev" target="blank">
+<p align="left">
+  <a href="https://react.dev" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=react"/>
   </a>
-  <a href="https://nextjs.org" target="blank">
+  <a href="https://nextjs.org" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs"/>
   </a>
-  <a href="https://www.typescriptlang.org" target="blank">
+  <a href="https://www.typescriptlang.org" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript"/>
   </a>
-  <a href="https://threejs.org" target="blank">
+  <a href="https://threejs.org" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=threejs"/>
   </a>
-  <a href="https://sass-lang.com" target="blank">
+  <a href="https://sass-lang.com" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=sass"/>
   </a>
-  <a href="https://gsap.com" target="blank">
+  <a href="https://gsap.com" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=gsap"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=css"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=html"/>
   </a>
 </p>
