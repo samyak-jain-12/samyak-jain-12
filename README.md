@@ -52,4 +52,10 @@
   <a href="https://gsap.com" target="blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=gsap"/>
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=css"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html"/>
+  </a>
 </p>
