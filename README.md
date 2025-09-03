@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=435&lines=AI%2FML+Enthusiast;Frontend+Developer" alt="Typing SVG" />
 </p>
 
+- 🌱 I’m currently learning LLMs and AI Agents
 - 📫 How to reach me **jainsamyak1203@gmail.com**
 
 ## 💻 Languages and Tools :
